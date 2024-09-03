@@ -1,0 +1,26 @@
+p,
+li,
+ol,
+ul,
+h1,
+h2 {
+    font-size: 20px;
+    font-family: 'Goth';
+    color: red;
+
+}
+
+@font-face {
+    font-family: 'Goth';
+    src: url('BLACEB__.TTF');
+}
+
+body {
+    background-color: black;
+}
+
+img {
+    height: 124px;
+    align-self: center;
+    width: 124px;
+}

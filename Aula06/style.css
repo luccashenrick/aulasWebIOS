@@ -1,0 +1,18 @@
+table{
+    width: 100px;
+    height: 100px;
+    border-color: white ;
+}
+
+th{
+    background-color:darkblue;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+td{
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    align-items: flex-start;
+}
